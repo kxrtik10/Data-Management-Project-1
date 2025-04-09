@@ -6,17 +6,17 @@
   - Yugal Shah yns14
   - Soham Patel 
    
-2. Are there known issues or functions that aren't working currently in your
+1. Are there known issues or functions that aren't working currently in your
 attached code? If so, explain. (note that you will get half credit for any
 reasonably sized bug that is fully explained in the readme)
 - No known issues are present in the code
 
-3. Collaboration: Who did you collaborate with on this project? What resources and
+2. Collaboration: Who did you collaborate with on this project? What resources and
 references did you consult? Please also specify on what aspect of the project you
 collaborated or consulted.
 - We collaborated with no other groups or referenced code from any site. 
 
-3.What are some interesting questions about mortgages in NJ your database can
+3. What are some interesting questions about mortgages in NJ your database can
 answer?
 - Did male and female applicants get approved at different rates?
 - What is the average loan amount approved for this year?
@@ -30,7 +30,7 @@ for the next projects)
   of the data would not generate into the table or when tables would just appear blank. Converting the blank spaces on the csv file into null was
   a little confusing at first but it took us approximately a week to get this project done. 
 
-6. If you prefer, you can turn in your videos here as links instead of uploading
+5. If you prefer, you can turn in your videos here as links instead of uploading
 them to canvas. These links must remain live until you recieve your final grade in
 this course, and should include some dating indication such as upload date to show
 they were done before the deadline.
