@@ -4,7 +4,7 @@
   - Ikjot Singh is534
   - Kartik Seth ks2221
   - Yugal Shah yns14
-  - Soham Patel 
+  - Soham Patel srp268
    
 1. Are there known issues or functions that aren't working currently in your
 attached code? If so, explain. (note that you will get half credit for any
