@@ -14,7 +14,8 @@ reasonably sized bug that is fully explained in the readme)
 2. Collaboration: Who did you collaborate with on this project? What resources and
 references did you consult? Please also specify on what aspect of the project you
 collaborated or consulted.
-- We collaborated with no other groups or referenced code from any site. 
+- We collaborated with no other groups but used a link to figure out how to copy a CSV file into a table.
+- https://www.enterprisedb.com/postgres-tutorials/how-import-and-export-data-using-csv-files-postgresql
 
 3. What are some interesting questions about mortgages in NJ your database can
 answer?
@@ -34,4 +35,4 @@ for the next projects)
 them to canvas. These links must remain live until you recieve your final grade in
 this course, and should include some dating indication such as upload date to show
 they were done before the deadline.
-- 
+- Script + Videos are uploaded in the Project 1 Folder in Canvas. 
